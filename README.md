@@ -1,3 +1,3 @@
-# edakturk14.github.io
+# atauslu.com
 
 Minimal personal website. 
